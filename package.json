@@ -1,0 +1,14 @@
+{
+  "name": "plop-react-comp-generator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "generate": "plop"
+  },
+  "keywords": [],
+  "author": "Anand K",
+  "license": "ISC",
+  "devDependencies": {
+    "plop": "^2.0.0"
+  }
+}
